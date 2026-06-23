@@ -12,6 +12,17 @@ and a pause function activated by holding both buttons for three seconds.
 - Audible alerts
 - Automatic timeout indication with flashing display and buzzer
 - Pause and resume by holding both buttons for 3 seconds
+
+# Components Required:
+- 1 × Arduino Uno (or compatible board)
+- 1 × 16×2 I²C LCD display
+- 2 × Push buttons
+- 1 × Passive buzzer
+- 1 × 10 kΩ potentiometer (for selecting the starting time)
+- Jumper wires
+- Breadboard (optional, for prototyping)
+- USB cable for programming the Arduino
+
 # How to Build:
 - Assemble the circuit according to the provided wiring diagram.
 - Open the supplied code in the Arduino IDE.
@@ -34,5 +45,6 @@ This is the first version of the project, so there may still be some bugs. Unfor
 In addition, this version, which includes the potentiometer for time selection, has not yet been tested.
 
 Feel free to modify and improve the code however you like. If you make any changes or enhancements,
-I would love to see them! You can contact me on Instagram at @ew_louay or by email at l.dalali.edu@gmail.com and share your improvements.
+I would love to see them!
+You can contact me on Instagram at @ew_louay or by email at l.dalali.edu@gmail.com and share your improvements.
 Any feedback, fixes, or contributions are greatly appreciated!
