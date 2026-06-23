@@ -41,7 +41,7 @@ and a pause function activated by holding both buttons for three seconds.
 - To pause or resume the clock, press and hold both buttons simultaneously for 3 seconds.
 
 # Notes
-This is the first version of the project, so there may still be some bugs. Unfortunately, the improved versions were not backed up and have been lost.
+v0.1 is the first version of the project, so there may still be some bugs. Unfortunately, the improved versions were not backed up and have been lost.
 In addition, this version, which includes the potentiometer for time selection, has not yet been tested.
 
 Feel free to modify and improve the code however you like. If you make any changes or enhancements,
