@@ -48,18 +48,3 @@ Feel free to modify and improve the code however you like. If you make any chang
 I would love to see them!
 You can contact me on Instagram at @ew_louay or by email at l.dalali.edu@gmail.com and share your improvements.
 Any feedback, fixes, or contributions are greatly appreciated!
-
-
-
-     ______                                    __                                         
-   _/      \_                                 |  \                                        
-  /   $$$$$$ \    ______   __   __   __       | $$  ______   __    __   ______   __    __ 
- /  $$$____$$$\  /      \ |  \ |  \ |  \      | $$ /      \ |  \  |  \ |      \ |  \  |  \
-|  $$/     \ $$\|  $$$$$$\| $$ | $$ | $$      | $$|  $$$$$$\| $$  | $$  \$$$$$$\| $$  | $$
-| $$|  $$$$$| $$| $$    $$| $$ | $$ | $$      | $$| $$  | $$| $$  | $$ /      $$| $$  | $$
-| $$| $$| $$| $$| $$$$$$$$| $$_/ $$_/ $$      | $$| $$__/ $$| $$__/ $$|  $$$$$$$| $$__/ $$
-| $$ \$$  $$| $$ \$$     \ \$$   $$   $$______| $$ \$$    $$ \$$    $$ \$$    $$ \$$    $$
- \$$\ \$$$$$$$$   \$$$$$$$  \$$$$$\$$$$|      \\$$  \$$$$$$   \$$$$$$   \$$$$$$$ _\$$$$$$$
-  \$$\ __/   \                          \$$$$$$                                 |  \__| $$
-   \$$$    $$$                                                                   \$$    $$
-     \$$$$$$                                                                      \$$$$$$ 
